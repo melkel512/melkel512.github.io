@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Nice to Meet You!</title>
+
+    <style>
+        .grid{
+            display: grid;
+            grid-template-columns: 1fr 3fr 1fr;
+            grid-template-rows: auto 1fr auto;
+            gap: 2px;
+            height: 95vh;
+        }
+        header, footer{
+            grid-column: 1 / 4;
+        }
+        header {
+            border-style: solid; 
+            border-color: salmon;
+            background: #008080; 
+            font-size: 3em;
+            text-align: center;
+            font-family: cursive;
+        }
+        aside_left {
+            border-style: solid; 
+            border-color: salmon;
+            background: #008080; 
+            font-size: 1.25em;
+            text-align: left;
+        }     
+        aside_right {
+            border-style: solid; 
+            border-color: salmon;
+            background: #008080; 
+            font-size: 1.5em;
+            text-align: right;
+        }     
+        footer {
+            border-style: solid; 
+            border-color: salmon;
+            background: #008080; 
+            font-size: 1.6em;
+            text-align: right;
+            font-family: cursive;
+        }        
+        article{
+            border-style: solid; 
+            border-color: salmon;
+            background: #008080; 
+            text-align: center;
+        }
+    </style>
+    
+</head>
+<body>
+    <div class="grid">
+        <header style="color:thistle">Meet Melissa</header>
+        <aside_left style="color:antiquewhite">About Me
+            <p> <ul>
+                <li>Currently enrolled in MIT-xPro Full Stack Development Bootcamp with planned completion in April 2023.</li>
+                <li>Have more than 12 years as a BSN-prepared Registered Nurse.</li>
+                <li>Have an MBA in Healthcare Administration.</li>
+                <li>Well-rounded, multi-faceted individual looking to switch gears and begin a new career path within the fast-growing, ever-changing tech industry.</li>
+                <li>Interested in mixing my experience in healthcare with my knowledge of tech to help join two booming industries that will never go away, but rather are constantly becoming more and more intertwined.</li>
+            </ul> </p>
+        </aside_left>
+        <article> <img src="./Pic3.jpeg"></article>
+        <aside_right style="color:azure">My Links
+            <p> <a href="https://melkel512.github.io/">GitHub</a></p>
+            <p> <a href="https://www.linkedin.com/in/melissa-kelly-586aab65/">LinkedIn </a></p>
+            <p> <a href="mailto: melissakelly317@gmail.com">Contact Me by Email</a> </p>
+        </aside_right>
+        <footer style="color:#87CEEB">Thank you for visiting my page!</footer>
+    </div>
+
+</body>
+</html>
+
+
+
+
