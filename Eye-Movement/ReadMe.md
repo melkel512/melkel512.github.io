@@ -1,6 +1,6 @@
 # Eye Movement 
 <p>Description of project: </p>
-<p>This project started as 1 eye on the screen that tracked the movement of the mouse across/around the screen. The goal of the project was to create a second eye and make both eyes track the mouse movement in parallel around/across the screen. </p>
+<p>This project started as one eye on the screen that tracked the movement of the mouse across/around the screen. The goal of the project was to create a second eye and make both eyes track the mouse movement in parallel around/across the screen. </p>
 <p>How to Run: </p>
 <p>This is pretty user-friendly to use because all you have to do is load the file and move your mouse. </p>
 <p>Roadmap of future improvements: </p>
