@@ -1,5 +1,5 @@
 body {
-    background: #483D8B;
+    background: #293164f3;
     margin: 0; 
     padding: 0; 
 }
@@ -8,13 +8,31 @@ body {
     font-family: fantasy;
     font-size: 2em; 
     font-variant: small-caps;
-    color: slategray;
+    color: rgb(174, 128, 238);
 }
 
 .nav-link {
     font-family:Georgia, 'Times New Roman', Times, serif;
     font-size: 1.25em; 
     font-variant: small-caps;
-    color: grey;
 }
 
+/* unvisited link */
+a:link{
+    color:  rgb(170, 62, 202);
+}
+
+/* visited link */
+a:visited {
+    color: rgb(226, 114, 170);
+}
+
+/* mouse over link */
+a:hover {
+    color: rgba(81, 8, 253, 0.878);  
+}
+
+/* selected link */
+a:active {
+    color: rgb(42, 108, 231);
+}
