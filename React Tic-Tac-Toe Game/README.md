@@ -3,6 +3,7 @@
 This project was created during Week 16 of Bootcamp. I chose to edit the coloring a bit to make it more friendly on the eyes. 
 One improvement I would like to eventually add is some confetti or similar excitement when a winner is announced. 
 
+<img src='gamepic.png' alt='Screenshot of Game' style='width:300px; height:auto'>
 
 ## Getting Started with Create React App
 
