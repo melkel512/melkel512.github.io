@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# About This Project
+
+This project was created during Week 16 of Bootcamp. I chose to edit the coloring a bit to make it more friendly on the eyes. 
+One improvement I would like to eventually add is some confetti or similar excitement when a winner is announced. 
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
