@@ -1,7 +1,6 @@
 # About This Project
 
-This project was created during Week 16 of Bootcamp. I chose to edit the coloring a bit to make it more friendly on the eyes. 
-One improvement I would like to eventually add is some confetti or similar excitement when a winner is announced. 
+This project was created during Week 16 of Bootcamp. I chose to edit the coloring a bit to make it more friendly on the eyes. One improvement I would like to eventually add is some confetti or similar excitement when a winner is announced. Another improvement I would like to add would be either a "New Game" button that resets the game environment or just an auto-reset so many seconds after a player wins, as currently, you have to hit the reset button at the top to refresh the whole page to reset the game.  
 
 <img src='gamepic.png' alt='Screenshot of Game' style='width:300px; height:auto'>
 
